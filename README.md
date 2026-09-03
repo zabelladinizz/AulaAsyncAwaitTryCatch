@@ -1,5 +1,5 @@
-## "AulaAsyncAwaitTryCatch"
-professor: Jansen K Cara Turma: DS1A 
+## AulaAsyncAwaitTryCatch
+professores: Vitor Lima e Jansen K Cara
 Aluno: Isabella Diniz
 Classe: DS1A
 
