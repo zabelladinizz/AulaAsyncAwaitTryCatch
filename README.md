@@ -3,11 +3,11 @@ professores: Vitor Lima e Jansen K Cara
 Aluno: Isabella Diniz
 Classe: DS1A
 
-#Objetivo
+##Objetivo
 
 Desenvolver o nosso conhecimento de JavaScript.
 
-Teconologias: 
+##Teconologias: 
 - JavaScript
 - Visual Code
 - Git
