@@ -1,9 +1,9 @@
-## AulaAsyncAwaitTryCatch
-professores: Vitor Lima e Jansen K Cara
+## "AulaAsyncAwaitTryCatch"
+Professor: Vitor Lima
 Aluno: Isabella Diniz
 Classe: DS1A
 
-Objetivo
+# **Objetivo**
 
 Desenvolver o nosso conhecimento de JavaScript.
 
@@ -19,7 +19,7 @@ Teconologias:
 
 Aula AsyncAwaitTryCatch
 
-#Arquivos
+# **Arquivos**
 
 - 01-sincrono.js
 - 02-setTimeOut.js
